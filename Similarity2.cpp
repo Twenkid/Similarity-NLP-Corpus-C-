@@ -1,5 +1,7 @@
 // Similarity2.cpp : Defines the entry point for the console application.
-//
+// Author: Todor Arnaudov, 7.2007
+// Ported from Python code by Viktor Pekar
+// License: MIT
 
 #include "stdafx.h"
 
