@@ -1,8 +1,7 @@
 # Similarity-NLP-Corpus-CPP
 
-## Ported to C++ by Todor Arnaudov from code by Viktor Pekar in 2007.
-
-## -- Similarity
+### Ported to C++ by Todor Arnaudov from a project in Python by Viktor Pekar in 2007.
+## Similarity
 
 Important:
 
